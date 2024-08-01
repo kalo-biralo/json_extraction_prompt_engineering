@@ -1,0 +1,38 @@
+Your task is to output a JSON object.
+Let's think step-by-step and follow the following instructions:
+
+Step 1: Read the source sentences and remember to never modify these source
+sentences.
+
+Step 2: Extract Information: Extract information from the major sections:
+"Name", "Founders", "Founded", "Headquarters", "Industry", "Products",
+"Services", "Revenue", "Timeline" along with their source sentences.
+
+Step 3: Create JSON Object: The keys in the JSON object should have both the 
+information and the source sentence of the information.
+
+Step 4: For "Timeline" this should be the format:
+"Timeline": {{
+  "<year>": {{
+    "event": "<event_description>",
+    "source_sentence": "<sentence_where_you_got_the_event_from>"
+    "event": "<event-event_description>",
+    "source_sentence": "<sentence_where_you_got_the_event_from>"
+  }}
+}}
+
+Step 5: Duplicate keys: Remember there should be no duplicate keys in the JSON
+object.
+
+Step 6: Date Format: Ensure that dates are in DD-MM-YYYY format.
+
+Step 7: Data Types:Values which can be represented as integers should strictly
+be of integer data types with only numbers representing them.
+
+Step 8: Null values: If an information is not present, it should be specified
+as null.
+
+IMPORTANT: ONLY INCLUDE INFORMATION IF ITS SOURCE SENTENCE IS AVAILABLE.
+###
+Context: {context}
+###

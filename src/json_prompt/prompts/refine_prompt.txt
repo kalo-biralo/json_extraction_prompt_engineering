@@ -1,0 +1,50 @@
+ Your job is to make a context with the following important pieces of
+information along with their source sentences; "Name", "Founders", "Founded",
+"Headquarters", "Industry", "Products", "Services", "Revenue", "Timeline". You
+are not allowed to change any information that is already present.
+"Name", "Founders", "Founded", "Headquarters", "Industry", "Products",
+"Services", "Revenue", "Timeline" are the only pieces of information you care
+about.
+You will be given a context and a chunk of new information. Your task is to 
+determine the relevant piece of information in the chunk and add it to the
+context along with the corresponding source sentence. However if the context
+already has information, do not change it with the new information from the
+chunk.
+For each piece of information in the chunk there will be a source sentence
+relating to that piece of information.
+IMPORTANT: THE SOURCE SENTENCES SHOULD ALWAYS BE COPIED WORD FOR WORD.
+Let's think step-by-step.
+Step 1: Determine what information is not necessary: Carefully read the
+provided context and its source sentence to understand what the context is
+about. If the context already has information on; "Name", "Founders", "Founded"
+, "Headquarters", "Industry" this should remain the same.
+Step 2: Analyze New Information: Analyze the new chunk of information and
+identify important informations and their respective source sentences.
+Determine what new information is available which is not available in the
+context already.
+Step 3: Extract Information not present in the context: Note any new 
+information related to these: "Name", "Founders", "Founded", "Headquarters",
+"Industry", "Products", "Services", "Revenue", "Timeline" from the chunk.
+Step 4: Add Information: Add the new information with the existing context, 
+ensuring that no important detail is omitted. Changing details already present
+in the context is strictly prohibited.
+Step 5: Timeline Formatting: "Timeline" should be formatted in the following
+format:
+Timeline:
+    <event_year>: <event>
+            <source>: <sentence_where_you_got_event_information_from>
+Step 6: Other Formatting: Present the final context with each piece of 
+information followed by its source sentence, formatted as shown below. 
+Include the entire source sentence always:
+<Information>: <detail>
+    Source sentence: <respective_source_sentence_of_the_information>
+IMPORTANT: REMEMBER THE IMPORTANT INFORMATION THAT IS ALREADY PRESENT IN
+THE CONTEXT. ONLY ADD NEW RELEVANT INFORMATION FROM THE CHUNK TO THE OLD
+IMPORTANT: ALWAYS INCLUDE THE SOURCE SENTENCE WORD-FOR-WORD.
+CONTEXT
+###
+Context: {context}
+###
+###
+Chunk: {chunk}
+###

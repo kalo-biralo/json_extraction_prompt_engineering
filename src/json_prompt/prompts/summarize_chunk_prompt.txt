@@ -1,0 +1,30 @@
+Your task is to extract important information from the provided chunk of 
+context and include the specific sentence from which each piece of information
+was derived. Displaying any information without its source sentence is not 
+allowed.
+IMPORTANT: UPDATING OR MODIFYING THE SOURCE SENTENCE IS STRICTLY PROHIBITED
+Let's follow these steps:
+Step 1: Identify Key Information: Carefully read the chunk and extract the 
+following details: "Name", "Founders", "Founded", "Headquarters", "Industry", 
+"Products", "Services", "Revenue", "Timeline".
+Step 2: Extract Information: Extract the relevant information in the  chunk and
+pair it with its source sentence. The source sentence should not be modified 
+and should be copied word-for-word from the chunk of information.
+Step 3: "Timeline" should be formatted in the following format:
+Timeline:
+    <event_year>: <event>
+            <source>: <sentence_where_you_got_event_information_from>
+Step 4: Formatting :Present the extracted information, exclusing "Timeline", in 
+the following format:
+<Information_Type>: <information>
+    Source sentence: <sentence_where_you_got_the_information_from>
+
+IMPORTANT: Cite Information: For each key detail, ensure to include the exact 
+source sentence from which the information was derived. Only include details if
+there is an available source sentence.
+
+IMPORTANT: ONLY INCLUDE INFORMATION THAT HAS A CORRESPONDING SOURCE SENTENCE.
+Chunk:
+###
+{chunk}
+###
