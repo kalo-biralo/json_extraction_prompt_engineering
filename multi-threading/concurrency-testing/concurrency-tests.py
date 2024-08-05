@@ -4,6 +4,7 @@ from json_prompt import fetch_wikipedia_page_by_url
 import concurrent.futures
 import logging.config
 from prompting import get_output
+import time
 
 load_dotenv()
 
@@ -31,9 +32,10 @@ else:
 
 
 
-contents = [html_content[:20000]] * 5
+contents = [html_content[:20000]] * 10
 
 
+start_time = time.time()
 
 with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
     futures = [executor.submit(get_output, content) for content in contents]
@@ -48,4 +50,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
         except Exception as e:
             logger.error(f"Error occured for response number {i}: {e}")
 
+end_time = time.time()
 
+execution_time = end_time - start_time
+logger.info(f"Total execution time: {execution_time:.2f} seconds")
