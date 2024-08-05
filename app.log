@@ -1,0 +1,710 @@
+2024-08-02 17:09:56 - __main__ - INFO - Content fetched successfully.
+2024-08-02 17:09:56 - __main__ - INFO - Text split into chunks.
+2024-08-02 17:10:03 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:10:09 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:10:18 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:10:27 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:10:36 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:10:42 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:10:46 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:11:07 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:11:10 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:11:15 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:11:19 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:11:19 - __main__ - INFO - First chunk processed: 
+Here is the extracted information in the required format:
+
+**Name:** Apple Inc.
+    Source sentence: Apple Inc. is an American multinational corporation and technology company headquartered in Cupertino, California, in Silicon Valley.
+
+**Founders:** Steve Jobs, Steve Wozniak, and Ronald Wayne
+    Source sentence: Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne as a partnership.
+
+**Founded:** April 1, 1976
+    Source sentence: Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne as a partnership.
+
+**Headquarters:** Cupertino, California
+    Source sentence: Apple Inc. is an American multinational corporation and technology company headquartered in Cupertino, California, in Silicon Valley.
+
+**Industry:** Technology
+    Source sentence: Apple Inc. is an American multinational corporation and technology company headquartered in Cupertino, California, in Silicon Valley.
+
+**Products:** iPhone, iPad, Mac, Apple Watch, Vision Pro, Apple TV, iOS, iPadOS, macOS, watchOS, tvOS, and visionOS
+    Source sentence: Apple's product lineup includes include the iPhone, iPad, Mac, Apple Watch, Vision Pro, and Apple TV; as well as software like iOS, iPadOS, macOS, watchOS, tvOS, and visionOS; and services like Apple Card, Apple Pay, iCloud, Apple Music, and Apple TV+.
+
+**Services:** Apple Card, Apple Pay, iCloud, Apple Music, and Apple TV+
+    Source sentence: Apple's product lineup includes include the iPhone, iPad, Mac, Apple Watch, Vision Pro, and Apple TV; as well as software like iOS, iPadOS, macOS, watchOS, tvOS, and visionOS; and services like Apple Card, Apple Pay, iCloud, Apple Music, and Apple TV+.
+
+**Revenue:** $394.3 billion (in 2022)
+    Source sentence: In 2022, Apple was the largest technology company by revenue, with US$394.3 billion.
+
+**Timeline:**
+    1976: Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne as a partnership.
+        Source: Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne as a partnership.
+    1977: Apple Computer, Inc. was incorporated on January 3, 1977.
+        Source: Apple Computer, Inc. was incorporated on January 3, 1977.
+    1980: Apple went public selling 4.6 million shares at $22 per share on December 12, 1980.
+        Source: On December 12, 1980, Apple (ticker symbol "AAPL") went public selling 4.6 million shares at $22 per share ($.10 per share when adjusting for stock splits as of September 3, 2022).
+    1984: Apple launched the Macintosh on January 22, 1984.
+        Source: In 1984, Apple launched the Macintosh, the first personal computer without a bundled programming language.
+    1985: Steve Jobs resigned from Apple in September 1985.
+        Source: Jobs resigned from Apple in September 1985 and took several Apple employees with him to found NeXT.
+    2011: Steve Jobs resigned as CEO due to health reasons in 2011.
+        Source: Jobs resigned in 2011 for health reasons, and died two months later.
+    2018: Apple became the first publicly traded U.S. company to be valued at over $1 trillion in August 2018.
+        Source: Apple became the first publicly traded U.S. company to be valued at over $1 trillion in August 2018.
+    2020: Apple became the first publicly traded U.S. company to be valued at over $2 trillion in August 2020.
+        Source: Apple became the first publicly traded U.S. company to be valued at over $2 trillion in August 2020.
+    2022: Apple became the first publicly traded U.S. company to be valued at over $3 trillion in January 2022.
+        Source: Apple became the first publicly traded U.S. company to be valued at over $3 trillion in January 2022.
+    2024: Apple was valued at just over $3.2 trillion as of June 2024.
+        Source: As of June 2024, it was valued at just over $3.2 trillion.
+2024-08-02 17:11:28 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:11:41 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:11:58 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:12:16 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:12:39 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:13:03 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:13:29 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:13:53 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:14:23 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:14:52 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:14:52 - __main__ - INFO - 
+Context refined: 
+Here is the updated context with the new information:
+
+
+**Name:** Apple Inc.
+    Source sentence: Apple Inc. is an American multinational corporation and technology company headquartered in Cupertino, California, in Silicon Valley.
+
+**Founders:** Steve Jobs, Steve Wozniak, and Ronald Wayne
+    Source sentence: Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne as a partnership.
+
+**Founded:** April 1, 1976
+    Source sentence: Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne as a partnership.
+
+**Headquarters:** Cupertino, California
+    Source sentence: Apple Inc. is an American multinational corporation and technology company headquartered in Cupertino, California, in Silicon Valley.
+
+**Industry:** Technology
+    Source sentence: Apple is the world's largest technology company by revenue, the world's largest technology company by total assets, and the world's second-largest mobile phone manufacturer after Samsung.
+
+**Products:** iPhone, iPad, Mac, Apple Watch, Vision Pro, Apple TV, Macintosh, Macintosh 512K, LaserWriter, Macintosh Classic, Macintosh LC, Macintosh IIsi, PowerBook, iPod, iPod Nano, iPod Touch, iPod Shuffle, AirPods, Beats headphones, HomePod, iMac, Newton
+    Source sentence: Apple's product lineup includes include the iPhone, iPad, Mac, Apple Watch, Vision Pro, and Apple TV; as well as software like iOS, iPadOS, macOS, watchOS, tvOS, and visionOS; and services like Apple Card, Apple Pay, iCloud, Apple Music, and Apple TV+.
+    Source sentence: Apple makes several other products that it categorizes as "Wearables, Home and Accessories".[186] These products include the AirPods line of wireless headphones, Apple TV digital media players, Apple Watch smartwatches, Beats headphones, HomePod smart speakers, and the Vision Pro mixed reality headset.
+    Source sentence: Apple's first logo, designed by Ron Wayne, depicts Sir Isaac Newton sitting under an apple tree.
+
+**Services:** Apple Card, Apple Pay, iCloud, Apple Music, Apple TV+, eWorld online service, iTunes Store, App Store, AppleCare+ extended warranty plan, iCloud+ cloud-based data storage service, digital content services including Apple Books, Apple Fitness+, Apple News+, Apple TV+, and the iTunes Store, Advertising in the App Store and Apple News app, payment services through the Apple Card credit card and the Apple Pay processing platform, iCloud storage
+    Source sentence: Apple's product lineup includes include the iPhone, iPad, Mac, Apple Watch, Vision Pro, and Apple TV; as well as software like iOS, iPadOS, macOS, watchOS, tvOS, and visionOS; and services like Apple Card, Apple Pay, iCloud, Apple Music, and Apple TV+.
+    Source sentence: Apple experimented with several other unsuccessful consumer targeted products during the 1990s, including QuickTake digital cameras, PowerCD portable CD audio players, speakers, the Pippin video game console, the eWorld online service, and Apple Interactive Television Box.
+    Source sentence: Apple offers a broad line of services, including advertising in the App Store and Apple News app, the AppleCare+ extended warranty plan, the iCloud+ cloud-based data storage service, payment services through the Apple Card credit card and the Apple Pay processing platform, digital content services including Apple Books, Apple Fitness+, Apple Music, Apple News+, Apple TV+, and the iTunes Store.
+    Source sentence: With the popularity rise of cloud storage solutions, Apple began a technique in 2016 to do deep learning scans for facial data in photos on the user's local device and encrypting the content before uploading it to Apple's iCloud storage system.
+
+**Revenue:** $394.3 billion (in 2022), $8.16 billion (in 2009), $233 billion (in 2015), $16 billion (globally in 2011), $170 billion (in 2013), 85 billion rubles (in Russia, 2022)
+    Source sentence: In 2022, Apple was the largest technology company by revenue, with US$394.3 billion.
+    Source sentence: Apple recorded its best non-holiday quarter (Q1 FY 2009) during the recession with revenue of $8.16 billion and profit of $1.21 billion.
+    Source sentence: In the trailing fiscal year of 2015, Apple was listed as the top tech company. It ranked third, overall, with US$233 billion in revenue.
+    Source sentence: Strong product sales have placed Apple among the top-tier retail stores, with sales over $16 billion globally in 2011.
+    Source sentence: The company's worldwide annual revenue in 2013 totaled $170 billion.
+    Source sentence: In Russia, in 2022, the company's revenue amounted to 85 billion rubles.
+
+**Timeline:**
+    1968: Apple Corps Ltd., a multimedia company started by the Beatles, was founded.
+        Source: Steve Jobs and Steve Wozniak were fans of the Beatles,[190] but Apple Inc. had name and logo trademark issues with Apple Corps Ltd., a multimedia company started by the Beatles in 1968.
+    1970s: Apple's first slogan, "Byte into an Apple", was coined.
+        Source: Apple's first slogan, "Byte into an Apple", was coined in the late 1970s.[203]
+    1976: Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne as a partnership.
+        Source: Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne as a partnership.
+    1977: Apple Computer, Inc. was incorporated on January 3, 1977.
+        Source: Apple Computer, Inc. was incorporated on January 3, 1977.
+    1977: Apple's first headquarters was located at Stephens Creek Three.
+        Source: In addition to Apple Park and the Apple Campus, Apple occupies an additional thirty office buildings scattered throughout the city of Cupertino, including three buildings as prior headquarters: Stephens Creek Three from 1977 to 1978...
+    1977-1978: Located in Stephens Creek Three.
+        Source sentence: Apple occupies an additional thirty office buildings scattered throughout the city of Cupertino, including three buildings as prior headquarters: Stephens Creek Three from 1977 to 1978, Bandley One from 1978 to 1982, and Mariani One from 1982 to 1993.[274]
+    1978-1982: Located in Bandley One.
+        Source sentence: Apple occupies an additional thirty office buildings scattered throughout the city of Cupertino, including three buildings as prior headquarters: Stephens Creek Three from 1977 to 1978, Bandley One from 1978 to 1982, and Mariani One from 1982 to 1993.[274]
+    1980: Apple went public selling 4.6 million shares at $22 per share on December 12, 1980.
+        Source: On December 12, 1980, Apple (ticker symbol "AAPL") went public selling 4.6 million shares at $22 per share ($.10 per share when adjusting for stock splits as of September 3, 2022).
+    1980: Apple's headquarters for Europe, the Middle East and Africa (EMEA) were established in Cork, Ireland.
+        Source: Apple's headquarters for Europe, the Middle East and Africa (EMEA) are located in Cork in the south of Ireland, called the Hollyhill campus.
+    1982-1993: Located in Mariani One.
+        Source sentence: Apple occupies an additional thirty office buildings scattered throughout the city of Cupertino, including three buildings as prior headquarters: Stephens Creek Three from 1977 to 1978, Bandley One from 1978 to 1982, and Mariani One from 1982 to 1993.[274]
+    1984: Apple launched the Macintosh on January 22, 1984.
+        Source: In 1984, Apple launched the Macintosh, the first personal computer without a bundled programming language.
+    1984: The Macintosh was introduced.
+        Source: From the introduction of the Macintosh in 1984, with the 1984 Super Bowl advertisement to the more modern Get a Mac adverts, Apple has been recognized for its efforts toward effective advertising and marketing for its products.
+    1985: Steve Jobs resigned from Apple in September 1985.
+        Source: Jobs resigned from Apple in September 1985 and took several Apple employees with him to found NeXT.
+    1990: Apple introduced three lower-cost models, the Macintosh Classic, the Macintosh LC, and the Macintosh IIsi, all of which saw significant sales due to pent-up demand.
+        Source: In October 1990, Apple introduced three lower-cost models, the Macintosh Classic, the Macintosh LC, and the Macintosh IIsi, all of which saw significant sales due to pent-up demand.
+    1991: Apple introduced the hugely successful PowerBook with a design that set the current shape for almost all modern laptops.
+        Source: In 1991, Apple introduced the hugely successful PowerBook with a design that set the current shape for almost all modern laptops.
+    1993: Apple experimented with several other unsuccessful consumer targeted products during the 1990s, including QuickTake digital cameras, PowerCD portable CD audio players, speakers, the Pippin video game console, the eWorld online service, and Apple Interactive Television Box.
+        Source: Apple experimented with several other unsuccessful consumer targeted products during the 1990s, including QuickTake digital cameras, PowerCD portable CD audio players, speakers, the Pippin video game console, the eWorld online service, and Apple Interactive Television Box.
+    1993: The Apple Campus opened, serving as the company's headquarters until 2017.
+        Source: The Apple Campus was the company's headquarters from its opening in 1993, until the opening of Apple Park in 2017.
+    1994: Apple, IBM, and Motorola formed the AIM alliance to create a new computing platform (the PowerPC Reference Platform or PReP), with IBM and Motorola hardware coupled with Apple software.
+        Source: Under Spindler, Apple, IBM, and Motorola formed the AIM alliance in 1994 to create a new computing platform (the PowerPC Reference Platform or PReP), with IBM and Motorola hardware coupled with Apple software.
+    1996: Spindler was replaced by Gil Amelio as CEO, who was hired for his reputation as a corporate rehabilitator.
+        Source: In 1996, Spindler was replaced by Gil Amelio as CEO, who was hired for his reputation as a corporate rehabilitator.
+    1996: Apple's board preferred NeXTSTEP and purchased NeXT in late 1996 for $400 million, and retained Steve Jobs.
+        Source: Only weeks away from bankruptcy, Apple's board preferred NeXTSTEP and purchased NeXT in late 1996 for $400 million, and retained Steve Jobs.
+    1997: The NeXT acquisition was finalized on February 9, 1997, and the board brought Jobs back to Apple as an advisor.
+        Source: The NeXT acquisition was finalized on February 9, 1997, and the board brought Jobs back to Apple as an advisor.
+    1997: Steve Jobs staged a boardroom coup that resulted in Amelio's resignation after overseeing a three-year record-low stock price and crippling financial losses.
+        Source: On July 9, 1997, Jobs staged a boardroom coup that resulted in Amelio's resignation after overseeing a three-year record-low stock price and crippling financial losses.
+    1997: Apple launched the Apple Store website.
+        Source: On November 10, 1997, the Apple Store website launched, which was tied to a new build-to-order manufacturing model similar to PC manufacturer Dell's success.
+    1997: Apple relaunched its online store.
+        Source: Jobs relaunched Apple's online store in 1997, and opened the first two physical stores in 2001.
+    1997: Apple began an effort to revamp the retail program.
+        Source: Seeing a need for improved retail presentation of the company's products, he began an effort in 1997 to revamp the retail program to get an improved relationship to consumers, and hired Ron Johnson in 2000.
+    1998: Apple introduced the iMac.
+        Source: On May 6, 1998, Apple introduced a new all-in-one computer reminiscent of the original Macintosh: the iMac.
+    1999: Apple introduced the iBook consumer laptop.
+        Source: A little more than a year later on July 21, 1999, Apple introduced the iBook consumer laptop.
+    2001: Apple announced the release of Mac OS X.
+        Source: First, on March 24, 2001, Apple announced the release of a new modern operating system, Mac OS X.
+    2001: Apple launched the first two Apple Store retail locations.
+        Source: Second, in May 2001, the first two Apple Store retail locations opened in Virginia and California, offering an improved presentation of the company's products.
+    2001: The first Apple Stores were opened.
+        Source: The first Apple Stores were originally opened as two locations in May 2001 by then-CEO Steve Jobs, after years of attempting but failing store-within-a-store concepts.
+    2001: Apple introduced the iPod portable digital audio player.
+        Source: On October 23, 2001, the iPod portable digital audio player debuted.
+    2003: Apple introduced the iTunes Store.
+        Source: In 2003, the iTunes Store was introduced with music downloads for 99¢ a song and iPod integration.
+    2005: Apple announced the transition to Intel processors.
+        Source: At the Worldwide Developers Conference keynote address on June 6, 2005, Jobs announced that Apple would move away from PowerPC processors, and the Mac would transition to Intel processors in 2006.
+    2005: Apple was ranked as the world's most innovative brand.
+        Source: Boston Consulting Group has ranked Apple as the world's most innovative brand every year as of 2005.
+    2006: Apple made the transition to Intel chips for the entire Mac product line.
+        Source: By August 7, 2006, Apple made the transition to Intel chips for the entire Mac product line—over one year sooner than announced.
+    2006: Apple launched an investigation after a media report on poor working conditions in its suppliers' factories in China.
+        Source: Apple immediately launched an investigation after the 2006 media report, and worked with their manufacturers to ensure acceptable working conditions.
+    2007: Apple renamed itself from Apple Computer, Inc. to Apple Inc.
+        Source: During his keynote speech at the Macworld Expo on January 9, 2007, Jobs announced the renaming of Apple Computer, Inc. to Apple Inc., because the company had broadened its focus from computers to consumer electronics.
+    2007: Apple announced the iPhone.
+        Source: During his keynote speech at the Macworld Expo on January 9, 2007, Jobs announced the renaming of Apple Computer, Inc. to Apple Inc., because the company had broadened its focus from computers to consumer electronics, and the announcement of the iPhone.
+    2007: Apple started yearly audits of all its suppliers regarding worker's rights.
+        Source: In 2007, Apple started yearly audits of all its suppliers regarding worker's rights, slowly raising standards and pruning suppliers that did not comply.
+    2008: Apple launched the App Store.
+        Source: In July 2008, Apple launched the App Store to sell third-party applications for the iPhone and iPod Touch.
+    2008: Fortune magazine named Apple the most admired company in the United States.
+        Source: Fortune magazine named Apple the most admired company in the United States in 2008, and in the world from 2008 to 2012.
+    2008: Apple began publishing yearly progress reports on its suppliers' working conditions.
+        Source: Yearly progress reports have been published as of 2008.
+    2009: On January 14, Jobs announced in an internal memo that he would be taking a six-month medical leave of absence from Apple until the end of June 2009
+        Source sentence: On January 14, 2009, Jobs announced in an internal memo that he would be taking a six-month medical leave of absence from Apple until the end of June 2009 and would spend the time focusing on his health.
+    2010: On January 27, 2010, Apple unveiled a large screen, tablet-like media device known as the iPad 
+        Source sentence: On January 27, 2010, Apple unveiled a large screen, tablet-like media device known as the iPad
+    2010: In May 2010, Apple's market cap exceeded that of competitor Microsoft for the first time since 1989. 
+        Source sentence: In May 2010, Apple's market cap exceeded that of competitor Microsoft for the first time since 1989.
+    2010: In June 2010, Apple released the iPhone 4, 
+        Source sentence: In June 2010, Apple released the iPhone 4,
+    2010: The Foxconn suicides occurred between January and November.
+        Source: The Foxconn suicides occurred between January and November 2010, when 18 Foxconn (Chinese: 富士康) employees attempted suicide,[397] resulting in 14 deaths—the company was the world's largest contract electronics manufacturer, for clients including Apple, at the time.[397][398][399]
+    2010: Apple identified a series of serious labor violations of labor laws.
+        Source: Foxconn was not specifically named in the report, but Apple identified a series of serious labor violations of labor laws, including Apple's own rules, and some child labor existed in a number of factories.[401]
+    2011: On January 17, Jobs announced in an internal Apple memo that he would take another medical leave of absence for an indefinite period 
+        Source sentence: On January 17, 2011, Jobs announced in an internal Apple memo that he would take another medical leave of absence for an indefinite period to allow him to focus on his health.
+    2011: In June 2011, Jobs surprisingly took the stage and unveiled iCloud 
+        Source sentence: In June 2011, Jobs surprisingly took the stage and unveiled iCloud, an online storage and syncing service for music, photos, files, and software which replaced MobileMe, Apple's previous attempt at content syncing.
+    2011: On August 24, 2011, Jobs resigned his position as CEO of Apple 
+        Source sentence: On August 24, 2011, Jobs resigned his position as CEO of Apple.
+    2011: On October 5, 2011, Steve Jobs died, 
+        Source sentence: On October 5, 2011, Steve Jobs died,
+    2011: Apple's sales reached $16 billion globally.
+        Source: Strong product sales have placed Apple among the top-tier retail stores, with sales over $16 billion globally in 2011.
+    2011: Ron Johnson left his position as Senior Vice President of Retail Operations.
+        Source: Ron Johnson—Senior Vice President of Retail Operations until November 1, 2011—was responsible for site selection, in-store service, and store layout...
+    2011: Apple admitted that its suppliers' child labor practices in China had worsened.
+        Source: In 2011, Apple admitted that its suppliers' child labor practices in China had worsened.[396]
+    2012: The next major product announcement by Apple was on January 19, 2012 
+        Source sentence: The next major product announcement by Apple was on January 19, 2012, when Apple's Phil Schiller introduced iBook's Textbooks for iOS and iBook Author for Mac OS X in New York City.
+    2012: Apple's abuses in France were first discovered.
+        Source: According to the French regulators, the abuses occurred between 2005 and 2017 but were first discovered after a complaint by an independent reseller, eBizcuss, in 2012.
+    2012: Apple opened an iOS app development center in Bangalore and a maps development office for 4,000 staff in Hyderabad.
+        Source: In May 2012, Apple opened an iOS app development center in Bangalore and a maps development office for 4,000 staff in Hyderabad.
+    2013: Apple surpassed Coca-Cola to become the world's most valuable brand.
+        Source: On September 30, 2013, Apple surpassed Coca-Cola to become the world's most valuable brand in the Omnicom Group's "Best Global Brands" report.[197]
+    2014: Apple confirmed its intent to acquire Dr. Dre and Jimmy Iovine's audio company Beats Electronics 
+        Source sentence: In May 2014, Apple confirmed its intent to acquire Dr. Dre and Jimmy Iovine's audio company Beats Electronics—producer of the "Beats by Dr. Dre" line of headphones and speaker products, and operator of the music streaming service Beats Music—for US$3 billion, and to sell their products through Apple's retail outlets and resellers.
+    2014: Apple introduced a smartwatch called the Apple Watch 
+        Source sentence: During a press event on September 9, 2014, Apple introduced a smartwatch called the Apple Watch.
+    2014: Apple started encrypting all contents of iOS devices.
+        Source: With its iOS 8 mobile operating system in 2014, the company started encrypting all contents of iOS devices through users' passcodes, making it impossible at the time for the company to provide customer data to law enforcement requests seeking such information.
+    2014: A BBC investigation found excessive hours and other problems persisted.
+        Source: A 2014 BBC investigation found excessive hours and other problems persisted, after Apple's promise to reform factory practice after the 2010 Foxconn suicides.
+    2014: The Institute for Global Labour and Human Rights published a report documenting inhumane conditions for workers at a Zhen Ding Technology factory.
+        Source: In December 2014, the Institute for Global Labour and Human Rights published a report which documented inhumane conditions for the 15,000 workers at a Zhen Ding Technology factory in Shenzhen, China, which serves as a major supplier of circuit boards for Apple's iPhone and iPad.
+    2015: In the trailing fiscal year of 2015, Apple was listed as the top tech company 
+        Source sentence: In the trailing fiscal year of 2015, Apple was listed as the top tech company.
+    2015: Apple had 110,000 full-time employees.
+        Source: In 2015, Apple had 110,000 full-time employees.
+    2016: On June 6, 2016, Fortune released Fortune 500 
+        Source sentence: On June 6, 2016, Fortune released Fortune 500, its list of companies ranked on revenue generation.
+    2016: Apple began a technique to do deep learning scans for facial data in photos.
+        Source: With the popularity rise of cloud storage solutions, Apple began a technique in 2016 to do deep learning scans for facial data in photos on the user's local device and encrypting the content before uploading it to Apple's iCloud storage system.
+    2016: Apple Stores underwent a period of significant redesign.
+        Source: Apple Stores underwent a period of significant redesign, beginning in May 2016.
+    2016: Apple issued a US$1.5 billion green bond (climate bond), the first ever of its kind by a U.S. tech company.
+        Source: In February 2016, Apple issued a US$1.5 billion green bond (climate bond), the first ever of its kind by a U.S. tech company.
+    2017: Apple had 499 stores across 22 countries worldwide.
+        Source: Over the years, Apple has expanded the number of retail locations and its geographical coverage, with 499 stores across 22 countries worldwide as of December 2017.
+    2017: Apple announced the HomePod, 
+        Source sentence: In June 2017, Apple announced the HomePod, its smart speaker aimed to compete against Sonos, Google Home, and Amazon Echo.
+    2017: In November 2017, Apple announced it was branching out into original scripted programming 
+        Source sentence: In November 2017, Apple announced it was branching out into original scripted programming: a drama series starring Jennifer Aniston and Reese Witherspoon, and a reboot of the anthology series Amazing Stories with Steven Spielberg.
+    2017: Apple Park opened, replacing the Apple Campus as the company's headquarters.
+        Source: The building opened in April 2017 and houses more than 12,000 employees.
+    2018: Apple committed to power all its glass production with 100 percent renewable energy.
+        Source: Apple announced on August 16, 2016, that Lens Technology, one of its major suppliers in China, has committed to power all its glass production for Apple with 100 percent renewable energy by 2018.
+    2020: France fined Apple €1.1 billion for colluding with two wholesalers.
+        Source: On March 16, 2020, France fined Apple €1.1 billion for colluding with two wholesalers to stifle competition and keep prices high by handicapping independent resellers.
+    2020: Apple's share price briefly topped $467.77 
+        Source sentence: On August 19, 2020, Apple's share price briefly topped $467.77, making it the first US company with a market capitalization of US$2 trillion.
+    2020: During its annual WWDC keynote speech on June 22, 2020 
+        Source sentence: During its annual WWDC keynote speech on June 22, 2020, Apple announced it would move away from Intel processors, and the Mac would transition to processors developed in-house.
+    2020: Epic Games sued Apple and Google after Fortnite was removed from Apple's and Google's app stores.
+        Source: On August 13, 2020, Epic Games, the maker of the popular game Fortnite, sued both Apple and Google after Fortnite was removed from Apple's and Google's app stores.
+    2020: The MacBook Air, MacBook Pro, and the Mac Mini became the first Mac devices powered by an Apple-designed processor, the Apple M1 
+        Source sentence: On November 10, 2020, the MacBook Air, MacBook Pro, and the Mac Mini became the first Mac devices powered by an Apple-designed processor, the Apple M1.
+    2021: Apple released an update to iOS 14, requiring developers to ask iPhone users permission to track them.
+        Source: After Facebook's measures, including purchasing full-page newspaper advertisements protesting App Tracking Transparency, Apple released the update in early 2021.
+    2021: Apple opened a 1.1-million-square-foot campus in Austin, Texas.
+        Source: Apple has two campuses near Austin, Texas: ...a 1.1-million-square-foot campus opened in 2021 where 6,000 people work in technical support, supply chain management, online store curation, and Apple Maps data management.
+    2021: Apple uses components from 43 countries.
+        Source: As of 2021, Apple uses components from 43 countries.
+    2021: Apple announced a $200 million fund to combat climate change by removing 1 million metric tons of carbon dioxide from the atmosphere each year.
+        Source: In April 2021, Apple said that it had started a $200 million fund in order to combat climate change by removing 1 million metric tons of carbon dioxide from the atmosphere each year.
+    2022: It was reported that Samsung Electro-Mechanics would be collaborating with Apple on its M2 chip instead of LG Innotek 
+        Source sentence: In April 2022, it was reported that Samsung Electro-Mechanics would be collaborating with Apple on its M2 chip instead of LG Innotek.
+    2022: A trademark was filed for RealityOS 
+        Source sentence: In May 2022, a trademark was filed for RealityOS, an operating system reportedly intended for virtual and augmented reality headsets, first mentioned in 2017.
+    2022: Apple's revenue in Russia amounted to 85 billion rubles.
+        Source: In Russia, in 2022, the company's revenue amounted to 85 billion rubles.
+    2022: Apple was criticized by the NewClimate Institute for its carbon neutrality pledge and climate strategy.
+        Source: In February 2022, the NewClimate Institute, a German environmental policy think tank, published a survey evaluating the transparency and progress of the climate strategies and carbon neutrality pledges announced by 25 major companies in the United States that found that Apple's carbon neutrality pledge and climate strategy was unsubstantiated and misleading.
+    2023: Apple launched a buy now, pay later service called 'Apple Pay Later' for its Apple Wallet users.
+        Source sentence: Apple launched a buy now, pay later service called 'Apple Pay Later' for its Apple Wallet users in March 2023. The program allows its users to apply for loans between $50 and $1,000 to make online or in-app purchases and then repaying them through four installments spread over six weeks without any interest or fees.[176][177]
+    2023: Apple agreed to a $25 million settlement in a U.S. Department of Justice case that alleged Apple was discriminating against U.S. citizens in hiring.
+        Source sentence: In November 2023, Apple agreed to a $25 million settlement in a U.S. Department of Justice case that alleged Apple was discriminating against U.S. citizens in hiring. Apple created jobs that were not listed online and required paper submission to apply for, while advertising these jobs to foreign workers as part of recruitment for PERM.[178]
+    2023: Apple was reported to have an Exploratory Design Group (XDG) working on glucose monitoring for the Apple Watch.
+        Source: In 2023, Bloomberg's Mark Gurman revealed the existence of Apple's Exploratory Design Group (XDG), which was working to add glucose monitoring to the Apple Watch.
+    2023: Apple announced it was dropping leather from its product lines, citing the material's "significant carbon footprint".
+        Source: In 2023, Apple announced it was dropping leather from its product lines, citing the material's "significant carbon footprint".
+    2024: Apple announced compliance with the European Union's competition law, with major changes to the App Store and other services.
+        Source sentence: In January 2024, Apple announced compliance with the European Union's competition law, with major changes to the App Store and other services, effective March 7. This enables iOS users in the 27-nation bloc to use alternative app stores, and alternative payment methods within apps. This adds a menu in Safari for downloading alternative browsers, such as Chrome or Firefox.[179]
+2024-08-02 17:15:23 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-02 17:15:23 - __main__ - INFO - 
+Extracted JSON: 
+Here is the JSON object that represents the information extracted from the text:
+
+```json
+{
+  "Name": {
+    "value": "Apple Inc.",
+    "source_sentence": "Apple Inc. is an American multinational corporation and technology company headquartered in Cupertino, California, in Silicon Valley."
+  },
+  "Founders": {
+    "value": "Steve Jobs, Steve Wozniak, and Ronald Wayne",
+    "source_sentence": "Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne as a partnership."
+  },
+  "Founded": {
+    "value": "April 1, 1976",
+    "source_sentence": "Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne as a partnership."
+  },
+  "Headquarters": {
+    "value": "Cupertino, California",
+    "source_sentence": "Apple Inc. is an American multinational corporation and technology company headquartered in Cupertino, California, in Silicon Valley."
+  },
+  "Industry": {
+    "value": "Technology",
+    "source_sentence": "Apple is the world's largest technology company by revenue, the world's largest technology company by total assets, and the world's second-largest mobile phone manufacturer after Samsung."
+  },
+  "Products": {
+    "value": "iPhone, iPad, Mac, Apple Watch, Vision Pro, Apple TV, Macintosh, Macintosh 512K, LaserWriter, Macintosh Classic, Macintosh LC, Macintosh IIsi, PowerBook, iPod, iPod Nano, iPod Touch, iPod Shuffle, AirPods, Beats headphones, HomePod, iMac, Newton",
+    "source_sentence": "Apple's product lineup includes include the iPhone, iPad, Mac, Apple Watch, Vision Pro, and Apple TV; as well as software like iOS, iPadOS, macOS, watchOS, tvOS, and visionOS; and services like Apple Card, Apple Pay, iCloud, Apple Music, and Apple TV+."
+  },
+  "Services": {
+    "value": "Apple Card, Apple Pay, iCloud, Apple Music, Apple TV+, eWorld online service, iTunes Store, App Store, AppleCare+ extended warranty plan, iCloud+ cloud-based data storage service, digital content services including Apple Books, Apple Fitness+, Apple News+, Apple TV+, and the iTunes Store, Advertising in the App Store and Apple News app, payment services through the Apple Card credit card and the Apple Pay processing platform, iCloud storage",
+    "source_sentence": "Apple's product lineup includes include the iPhone, iPad, Mac, Apple Watch, Vision Pro, and Apple TV; as well as software like iOS, iPadOS, macOS, watchOS, tvOS, and visionOS; and services like Apple Card, Apple Pay, iCloud, Apple Music, and Apple TV+."
+  },
+  "Revenue": {
+    "value": "$394.3 billion (in 2022), $8.16 billion (in 2009), $233 billion (in 2015), $16 billion (globally in 2011), $170 billion (in 2013), 85 billion rubles (in Russia, 2022)",
+    "source_sentence": "In 2022, Apple was the largest technology company by revenue, with US$394.3 billion."
+  },
+  "Timeline": {
+    "1968": {
+      "event": "Apple Corps Ltd., a multimedia company started by the Beatles, was founded.",
+      "source_sentence": "Steve Jobs and Steve Wozniak were fans of the Beatles,[190] but Apple Inc. had name and logo trademark issues with Apple Corps Ltd., a multimedia company started by the Beatles in 1968."
+    },
+    "1970s": {
+      "event": "Apple's first slogan, 'Byte into an Apple', was coined.",
+      "source_sentence": "Apple's first slogan, 'Byte into an Apple', was coined in the late 1970s.[203]"
+    },
+    "1976": {
+      "event": "Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne as a partnership.",
+      "source_sentence": "Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne as a partnership."
+    },
+    "1977": {
+      "event": "Apple Computer, Inc. was incorporated on January 3, 1977.",
+      "source_sentence": "Apple Computer, Inc. was incorporated on January 3, 1977."
+    },
+    "1977-1978": {
+      "event": "Located in Stephens Creek Three.",
+      "source_sentence": "Apple occupies an additional thirty office buildings scattered throughout the city of Cupertino, including three buildings as prior headquarters: Stephens Creek Three from 1977 to 1978, Bandley One from 1978 to 1982, and Mariani One from 1982 to 1993.[274]"
+    },
+    "1978-1982": {
+      "event": "Located in Bandley One.",
+      "source_sentence": "Apple occupies an additional thirty office buildings scattered throughout the city of Cupertino, including three buildings as prior headquarters: Stephens Creek Three from 1977 to 1978, Bandley One from 1978 to 1982, and Mariani One from 1982 to 1993.[274]"
+    },
+    "1980": {
+      "event": "Apple went public selling 4.6 million shares at $22 per share on December 12, 1980.",
+      "source_sentence": "On December 12, 1980, Apple (ticker symbol 'AAPL') went public selling 4.6 million shares at $22 per share ($.10 per share when adjusting for stock splits as of September 3, 2022)."
+    },
+    "1980": {
+      "event": "Apple's headquarters for Europe, the Middle East and Africa (EMEA) were established in Cork, Ireland.",
+      "source_sentence": "Apple's headquarters for Europe, the Middle East and Africa (EMEA) are located in Cork in the south of Ireland, called the Hollyhill campus."
+    },
+    "1982-1993": {
+      "event": "Located in Mariani One.",
+      "source_sentence": "Apple occupies an additional thirty office buildings scattered throughout the city of Cupertino, including three buildings as prior headquarters: Stephens Creek Three from 1977 to 1978, Bandley One from 1978 to 1982, and Mariani One from 1982 to 1993.[274]"
+    },
+    "1984": {
+      "event": "Apple launched the Macintosh on January 22, 1984.",
+      "source_sentence": "In 1984, Apple launched the Macintosh, the first personal computer without a bundled programming language."
+    },
+    "1984": {
+      "event": "The Macintosh was introduced.",
+      "source_sentence": "From the introduction of the Macintosh in 1984, with the 1984 Super Bowl advertisement to the more modern Get a Mac adverts, Apple has been recognized for its efforts toward effective advertising and marketing for its products."
+    },
+    "1985": {
+      "event": "Steve Jobs resigned from Apple in September 1985.",
+      "source_sentence": "Jobs resigned from Apple in September 1985 and took several Apple employees with him to found NeXT."
+    },
+    "1990": {
+      "event": "Apple introduced three lower-cost models, the Macintosh Classic, the Macintosh LC, and the Macintosh IIsi, all of which saw significant sales due to pent-up demand.",
+      "source_sentence": "In October 1990, Apple introduced three lower-cost models, the Macintosh Classic, the Macintosh LC, and the Macintosh IIsi, all of which saw significant sales due to pent-up demand."
+    },
+    "1991": {
+      "event": "Apple introduced the hugely successful PowerBook with a design that set the current shape for almost all modern laptops.",
+      "source_sentence": "In 1991, Apple introduced the hugely successful PowerBook with a design that set the current shape for almost all modern laptops."
+    },
+    "1993": {
+      "event": "Apple experimented with several other unsuccessful consumer targeted products during the 1990s, including QuickTake digital cameras, PowerCD portable CD audio players, speakers, the Pippin video game console, the eWorld online service, and Apple Interactive Television Box.",
+      "source_sentence": "Apple experimented with several other unsuccessful consumer targeted products during the 1990s, including QuickTake digital cameras, PowerCD portable CD audio players, speakers, the Pippin video game console, the eWorld online service, and Apple Interactive Television Box."
+    },
+    "1993": {
+      "event": "The Apple Campus opened, serving as the company's headquarters until 2017.",
+      "source_sentence": "The Apple Campus was the company's headquarters from its opening in 1993, until the opening of Apple Park in 2017."
+    },
+    "1994": {
+      "event": "Apple, IBM, and Motorola formed the AIM alliance to create a new computing platform (the PowerPC Reference Platform or PReP), with IBM and Motorola hardware coupled with Apple software.",
+      "source_sentence": "Under Spindler, Apple, IBM, and Motorola formed the AIM alliance in 1994 to create a new computing platform (the PowerPC Reference Platform or PReP), with IBM and Motorola hardware coupled with Apple software."
+    },
+    "1996": {
+      "event": "Spindler was replaced by Gil Amelio as CEO, who was hired for his reputation as a corporate rehabilitator.",
+      "source_sentence": "In 1996, Spindler was replaced by Gil Amelio as CEO, who was hired for his reputation as a corporate rehabilitator."
+    },
+    "1996": {
+      "event": "Apple's board preferred NeXTSTEP and purchased NeXT in late 1996 for $400 million, and retained Steve Jobs.",
+      "source_sentence": "Only weeks away from bankruptcy, Apple's board preferred NeXTSTEP and purchased NeXT in late 1996 for $400 million, and retained Steve Jobs."
+    },
+    "1997": {
+      "event": "The NeXT acquisition was finalized on February 9, 1997, and the board brought Jobs back to Apple as an advisor.",
+      "source_sentence": "The NeXT acquisition was finalized on February 9, 1997, and the board brought Jobs back to Apple as an advisor."
+    },
+    "1997": {
+      "event": "Steve Jobs staged a boardroom coup that resulted in Amelio's resignation after overseeing a three-year record-low stock price and crippling financial losses.",
+      "source_sentence": "On July 9, 1997, Jobs staged a boardroom coup that resulted in Amelio's resignation after overseeing a three-year record-low stock price and crippling financial losses."
+    },
+    "1997": {
+      "event": "Apple launched the Apple Store website.",
+      "source_sentence": "On November 10, 1997, the Apple Store website launched, which was tied to a new build-to-order manufacturing model similar to PC manufacturer Dell's success."
+    },
+    "1997": {
+      "event": "Apple relaunched its online store.",
+      "source_sentence": "Jobs relaunched Apple's online store in 1997, and opened the first two physical stores in 2001."
+    },
+    "1997": {
+      "event": "Apple began an effort to revamp the retail program.",
+      "source_sentence": "Seeing a need for improved retail presentation of the company's products, he began an effort in 1997 to revamp the retail program to get an improved relationship to consumers, and hired Ron Johnson in 2000."
+    },
+    "1998": {
+      "event": "Apple introduced the iMac.",
+      "source_sentence": "On May 6, 1998, Apple introduced a new all-in-one computer reminiscent of the original Macintosh: the iMac."
+    },
+    "1999": {
+      "event": "Apple introduced the iBook consumer laptop.",
+      "source_sentence": "A little more than a year later on July 21, 1999, Apple introduced the iBook consumer laptop."
+    },
+    "2001": {
+      "event": "Apple announced the release of Mac OS X.",
+      "source_sentence": "First, on March 24, 2001, Apple announced the release of a new modern operating system, Mac OS X."
+    },
+    "2001": {
+      "event": "Apple launched the first two Apple Store retail locations.",
+      "source_sentence": "Second, in May 2001, the first two Apple Store retail locations opened in Virginia and California, offering an improved presentation of the company's products."
+    },
+    "2001": {
+      "event": "The first Apple Stores were opened.",
+      "source_sentence": "The first Apple Stores were originally opened as two locations in May 2001 by then-CEO Steve Jobs, after years of attempting but failing store-within-a-store concepts."
+    },
+    "2001": {
+      "event": "Apple introduced the iPod portable digital audio player.",
+      "source_sentence": "On October 23, 2001, the iPod portable digital audio player debuted."
+    },
+    "2003": {
+      "event": "Apple introduced the iTunes Store.",
+      "source_sentence": "In 2003, the iTunes Store was introduced with music downloads for 99¢ a song and iPod integration."
+    },
+    "2005": {
+      "event": "Apple announced the transition to Intel processors.",
+      "source_sentence": "At the Worldwide Developers Conference keynote address on June 6, 2005, Jobs announced that Apple would move away from PowerPC processors, and the Mac would transition to Intel processors in 2006."
+    },
+    "2005": {
+      "event": "Apple was ranked as the world's most innovative brand.",
+      "source_sentence": "Boston Consulting Group has ranked Apple as the world's most innovative brand every year as of 2005."
+    },
+    "2006": {
+      "event": "Apple made the transition to Intel chips for the entire Mac product line.",
+      "source_sentence": "By August 7, 2006, Apple made the transition to Intel chips for the entire Mac product line—over one year sooner than announced."
+    },
+    "2006": {
+      "event": "Apple launched an investigation after a media report on poor working conditions in its suppliers' factories in China.",
+      "source_sentence": "Apple immediately launched an investigation after the 2006 media report, and worked with their manufacturers to ensure acceptable working conditions."
+    },
+    "2007": {
+      "event": "Apple renamed itself from Apple Computer, Inc. to Apple Inc.",
+      "source_sentence": "During his keynote speech at the Macworld Expo on January 9, 2007, Jobs announced the renaming of Apple Computer, Inc. to Apple Inc., because the company had broadened its focus from computers to consumer electronics."
+    },
+    "2007": {
+      "event": "Apple announced the iPhone.",
+      "source_sentence": "During his keynote speech at the Macworld Expo on January 9, 2007, Jobs announced the renaming of Apple Computer, Inc. to Apple Inc., because the company had broadened its focus from computers to consumer electronics, and the announcement of the iPhone."
+    },
+    "2007": {
+      "event": "Apple started yearly audits of all its suppliers regarding worker's rights.",
+      "source_sentence": "In 2007, Apple started yearly audits of all its suppliers regarding worker's rights, slowly raising standards and pruning suppliers that did not comply."
+    },
+    "2008": {
+      "event": "Apple launched the App Store.",
+      "source_sentence": "In July 2008, Apple launched the App Store to sell third-party applications for the iPhone and iPod Touch."
+    },
+    "2008": {
+      "event": "Fortune magazine named Apple the most admired company in the United States.",
+      "source_sentence": "Fortune magazine named Apple the most admired company in the United States in 2008, and in the world from 2008 to 2012."
+    },
+    "2008": {
+      "event": "Apple began publishing yearly progress reports on its suppliers' working conditions.",
+      "source_sentence": "Yearly progress reports have been published as of 2008."
+    },
+    "2009": {
+      "event": "On January 14, Jobs announced in an internal memo that he would be taking a six-month medical leave of absence from Apple until the end of June 2009",
+      "source_sentence": "On January 14, 2009, Jobs announced in an internal memo that he would be taking a six-month medical leave of absence from Apple until the end of June 2009 and would spend the time focusing on his health."
+    },
+    "2010": {
+      "event": "On January 27, 2010, Apple unveiled a large screen, tablet-like media device known as the iPad",
+      "source_sentence": "On January 27, 2010, Apple unveiled a large screen, tablet-like media device known as the iPad"
+    },
+    "2010": {
+      "event": "In May 2010, Apple's market cap exceeded that of competitor Microsoft for the first time since 1989.",
+      "source_sentence": "In May 2010, Apple's market cap exceeded that of competitor Microsoft for the first time since 1989."
+    },
+    "2010": {
+      "event": "In June 2010, Apple released the iPhone 4,",
+      "source_sentence": "In June 2010, Apple released the iPhone 4,"
+    },
+    "2010": {
+      "event": "The Foxconn suicides occurred between January and November.",
+      "source_sentence": "The Foxconn suicides occurred between January and November 2010, when 18 Foxconn (Chinese: \u80a1\u65af\u5e93) employees attempted suicide,[397] resulting in 14 deaths—the company was the world's largest contract electronics manufacturer, for clients including Apple, at the time.[397][398][399]"
+    },
+    "2010": {
+      "event": "Apple identified a series of serious labor violations of labor laws.",
+      "source_sentence": "Foxconn was not specifically named in the report, but Apple identified a series of serious labor violations of labor laws, including Apple's own rules, and some child labor existed in a number of factories.[401]"
+    },
+    "2011": {
+      "event": "On January 17, Jobs announced in an internal Apple memo that he would take another medical leave of absence for an indefinite period",
+      "source_sentence": "On January 17, 2011, Jobs announced in an internal Apple memo that he would take another medical leave of absence for an indefinite period to allow him to focus on his health."
+    },
+    "2011": {
+      "event": "In June 2011, Jobs surprisingly took the stage and unveiled iCloud",
+      "source_sentence": "In June 2011, Jobs surprisingly took the stage and unveiled iCloud, an online storage and syncing service for music, photos, files, and software which replaced MobileMe, Apple's previous attempt at content syncing."
+    },
+    "2011": {
+      "event": "On August 24, 2011, Jobs resigned his position as CEO of Apple",
+      "source_sentence": "On August 24, 2011, Jobs resigned his position as CEO of Apple."
+    },
+    "2011": {
+      "event": "On October 5, 2011, Steve Jobs died,",
+      "source_sentence": "On October 5, 2011, Steve Jobs died,"
+    },
+    "2011": {
+      "event": "Apple's sales reached $16 billion globally.",
+      "source_sentence": "Strong product sales have placed Apple among the top-tier retail stores, with sales over $16 billion globally in 2011."
+    },
+    "2011": {
+      "event": "Ron Johnson left his position as Senior Vice President of Retail Operations.",
+      "source_sentence": "Ron Johnson—Senior Vice President of Retail Operations until November 1, 2011—was responsible for site selection, in-store service, and store layout..."
+    },
+    "2011": {
+      "event": "Apple admitted that its suppliers' child labor practices in China had worsened.",
+      "source_sentence": "In 2011, Apple admitted that its suppliers' child labor practices in China had worsened.[396]"
+    },
+    "2012": {
+      "event": "The next major product announcement by Apple was on January 19, 2012",
+      "source_sentence": "The next major product announcement by Apple was on January 19, 2012, when Apple's Phil Schiller introduced iBook's Textbooks for iOS and iBook Author for Mac OS X in New York City."
+    },
+    "2012": {
+      "event": "Apple's abuses in France were first discovered.",
+      "source_sentence": "According to the French regulators, the abuses occurred between 2005 and 2017 but were first discovered after a complaint by an independent reseller, eBizcuss, in 2012."
+    },
+    "2012": {
+      "event": "Apple opened an iOS app development center in Bangalore and a maps development office for 4,000 staff in Hyderabad.",
+      "source_sentence": "In May 2012, Apple opened an iOS app development center in Bangalore and a maps development office for 4,000 staff in Hyderabad."
+    },
+    "2013": {
+      "event": "Apple surpassed Coca-Cola to become the world's most valuable brand.",
+      "source_sentence": "On September 30, 2013, Apple surpassed Coca-Cola to become the world's most valuable brand in the Omnicom Group's 'Best Global Brands' report.[197]"
+    },
+    "2014": {
+      "event": "Apple confirmed its intent to acquire Dr. Dre and Jimmy Iovine's audio company Beats Electronics",
+      "source_sentence": "In May 2014, Apple confirmed its intent to acquire Dr. Dre and Jimmy Iovine's audio company Beats Electronics—producer of the 'Beats by Dr. Dre' line of headphones and speaker products, and operator of the music streaming service Beats Music—for US$3 billion, and to sell their products through Apple's retail outlets and resellers."
+    },
+    "2014": {
+      "event": "Apple introduced a smartwatch called the Apple Watch",
+      "source_sentence": "During a press event on September 9, 2014, Apple introduced a smartwatch called the Apple Watch."
+    },
+    "2014": {
+      "event": "Apple started encrypting all contents of iOS devices.",
+      "source_sentence": "With its iOS 8 mobile operating system in 2014, the company started encrypting all contents of iOS devices through users' passcodes, making it impossible at the time for the company to provide customer data to law enforcement requests seeking such information."
+    },
+    "2014": {
+      "event": "A BBC investigation found excessive hours and other problems persisted.",
+      "source_sentence": "A 2014 BBC investigation found excessive hours and other problems persisted, after Apple's promise to reform factory practice after the 2010 Foxconn suicides."
+    },
+    "2014": {
+      "event": "The Institute for Global Labour and Human Rights published a report documenting inhumane conditions for workers at a Zhen Ding Technology factory.",
+      "source_sentence": "In December 2014, the Institute for Global Labour and Human Rights published a report which documented inhumane conditions for the 15,000 workers at a Zhen Ding Technology factory in Shenzhen, China, which serves as a major supplier of circuit boards for Apple's iPhone and iPad."
+    },
+    "2015": {
+      "event": "In the trailing fiscal year of 2015, Apple was listed as the top tech company",
+      "source_sentence": "In the trailing fiscal year of 2015, Apple was listed as the top tech company."
+    },
+    "2015": {
+      "event": "Apple had 110,000 full-time employees.",
+      "source_sentence": "In 2015, Apple had 110,000 full-time employees."
+    },
+    "2016": {
+      "event": "On June 6, 2016, Fortune released Fortune 500",
+      "source_sentence": "On June 6, 2016, Fortune released Fortune 500, its list of companies ranked on revenue generation."
+    },
+    "2016": {
+      "event": "Apple began a technique to do deep learning scans for facial data in photos.",
+      "source_sentence": "With the popularity rise of cloud storage solutions, Apple began a technique in 2016 to do deep learning scans for facial data in photos on the user's local device and encrypting the content before uploading it to Apple's iCloud storage system."
+    },
+    "2016": {
+      "event": "Apple Stores underwent a period of significant redesign.",
+      "source_sentence": "Apple Stores underwent a period of significant redesign, beginning in May 2016."
+    },
+    "2016": {
+      "event": "Apple issued a US$1.5 billion green bond (climate bond), the first ever of its kind by a U.S. tech company.",
+      "source_sentence": "In February 2016, Apple issued a US$1.5 billion green bond (climate bond), the first ever of its kind by a U.S. tech company."
+    },
+    "2017": {
+      "event": "Apple had 499 stores across 22 countries worldwide.",
+      "source_sentence": "Over the years, Apple has expanded the number of retail locations and its geographical coverage, with 499 stores across 22 countries worldwide as of December 2017."
+    },
+    "2017": {
+      "event": "Apple announced the HomePod,",
+      "source_sentence": "In June 2017, Apple announced the HomePod, its smart speaker aimed to compete against Sonos, Google Home, and Amazon Echo."
+    },
+    "2017": {
+      "event": "In November 2017, Apple announced it was branching out into original scripted programming",
+      "source_sentence": "In November 2017, Apple announced it was branching out into original scripted programming: a drama series starring Jennifer Aniston and Reese Witherspoon, and a reboot of the anthology series Amazing Stories with Steven Spielberg."
+    },
+    "2017": {
+      "event": "Apple Park opened, replacing the Apple Campus as the company's headquarters.",
+      "source_sentence": "The building opened in April 2017 and houses more than 12,000 employees."
+    },
+    "2018": {
+      "event": "Apple committed to power all its glass production with 100 percent renewable energy.",
+      "source_sentence": "Apple announced on August 16, 2016, that Lens Technology, one of its major suppliers in China, has committed to power all its glass production for Apple with 100 percent renewable energy by 2018."
+    },
+    "2020": {
+      "event": "France fined Apple €1.1 billion for colluding with two wholesalers.",
+      "source_sentence": "On March 16, 2020, France fined Apple €1.1 billion for colluding with two wholesalers to stifle competition and keep prices high by handicapping independent resellers."
+    },
+    "2020": {
+      "event": "Apple's share price briefly topped $467.77",
+      "source_sentence": "On August 19, 2020, Apple's share price briefly topped $467.77, making it the first US company with a market capitalization of US$2 trillion."
+    },
+    "2020": {
+      "event": "During its annual WWDC keynote speech on June 22, 2020",
+      "source_sentence": "During its annual WWDC keynote speech on June 22, 2020, Apple announced it would move away from Intel processors, and the Mac would transition to processors developed in-house."
+    },
+    "2020": {
+      "event": "Epic Games sued Apple and Google after Fortnite was removed from Apple's and Google's app stores.",
+      "source_sentence": "On August 13, 2020, Epic Games, the maker of the popular game Fortnite, sued both Apple and Google after Fortnite was removed from Apple's and Google's app stores."
+    },
+    "2020": {
+      "event": "The MacBook Air, MacBook Pro, and the Mac Mini became the first Mac devices powered by an Apple-designed processor, the Apple M1",
+      "source_sentence": "On November 10, 2020, the MacBook Air, MacBook Pro, and the Mac Mini became the first Mac devices powered by an Apple-designed processor, the Apple M1."
+    },
+    "2021": {
+      "event": "Apple released an update to iOS 14, requiring developers to ask iPhone users permission to track them.",
+      "source_sentence": "After Facebook's measures, including purchasing full-page newspaper advertisements protesting App Tracking Transparency, Apple released the update in early 2021."
+    },
+    "2021": {
+      "event": "Apple opened a 1.1-million-square-foot campus in Austin, Texas.",
+      "source_sentence": "Apple has two campuses near Austin, Texas: ...a 1.1-million-square-foot campus opened in 2021 where 6,000 people work in technical support, supply chain management, online store curation, and Apple Maps data management."
+    },
+    "2021": {
+      "event": "Apple uses components from 43 countries.",
+      "source_sentence": "As of 2021, Apple uses components from 43 countries."
+    },
+    "2021": {
+      "event": "Apple announced a $200 million fund to combat climate change by removing 1 million metric tons of carbon dioxide from the atmosphere each year.",
+      "source_sentence": "In April 2021, Apple said that it had started a $200 million fund in order to combat climate change by removing 1 million metric tons of carbon dioxide from the atmosphere each year."
+    },
+    "2022": {
+      "event": "It was reported that Samsung Electro-Mechanics would be collaborating with Apple on its M2 chip instead of LG Innotek",
+      "source_sentence": "In April 2022, it was reported that Samsung Electro-Mechanics would be collaborating with Apple on its M2 chip instead of LG Innotek."
+    },
+    "2022": {
+      "event": "A trademark was filed for RealityOS",
+      "source_sentence": "In May 2022, a trademark was filed for RealityOS, an operating system reportedly intended for virtual and augmented reality headsets, first mentioned in 2017."
+    },
+    "2022": {
+      "event": "Apple's revenue in Russia amounted to 85 billion rubles.",
+      "source_sentence": "In Russia, in 2022, the company's revenue amounted to 85 billion rubles."
+    },
+    "2022": {
+      "event": "Apple was criticized by the NewClimate Institute for its carbon neutrality pledge and climate strategy.",
+      "source_sentence": "In February 2022, the NewClimate Institute, a German environmental policy think tank, published a survey evaluating the transparency and progress of the climate strategies and carbon neutrality pledges announced by 25 major companies in the United States that found that Apple's carbon neutrality pledge and climate strategy was unsubstantiated and misleading."
+    },
+    "2023": {
+      "event": "Apple launched a buy now, pay later service called 'Apple Pay Later' for its Apple Wallet users.",
+      "source_sentence": "Apple launched a buy now, pay later service called 'Apple Pay Later' for its Apple Wallet users in March 2023. The program allows its users to apply for loans between $50 and $1,000 to make online or in-app purchases and then repaying them through four installments spread over six weeks without any interest or fees.[176][177]"
+    },
+    "2023": {
+      "event": "Apple agreed to a $25 million settlement in a U.S. Department of Justice case that alleged Apple was discriminating against U.S. citizens in hiring.",
+      "source_sentence": "In November 2023, Apple agreed to a $25 million settlement in a U.S. Department of Justice case that alleged Apple was discriminating against U.S. citizens in hiring. Apple created jobs that were not listed online and required paper submission to apply for, while advertising these jobs to foreign workers as part of recruitment for PERM.[178]"
+    },
+    "2023": {
+      "event": "Apple was reported to have an Exploratory Design Group (XDG) working on glucose monitoring for the Apple Watch.",
+      "source_sentence": "In 2023, Bloomberg's Mark Gurman revealed the existence of Apple's Exploratory Design Group (XDG), which was working to add glucose monitoring to the Apple Watch."
+    },
+    "2023": {
+      "event": "Apple announced it was dropping leather from its product lines, citing the material's 'significant carbon footprint'.",
+      "source_sentence": "In 2023, Apple announced it was dropping leather from its product lines, citing the material's 'significant carbon footprint'."
+    },
+    "2024": {
+      "event": "Apple announced compliance with the European Union's competition law, with major changes to the App Store and other services.",
+      "source_sentence": "In January 2024, Apple announced compliance with the European Union's competition law, with major changes to the App Store and other services, effective March 7. This enables iOS users in the 27-nation bloc to use alternative app stores, and alternative payment methods within apps. This adds a menu in Safari for downloading alternative browsers, such as Chrome or Firefox.[179]"
+    }
+  }
+}
+```
+
+Please note that the dates in the JSON object are in the format "YYYY-MM-DD" and the events are in the format "Event: description" with the source sentence included.
