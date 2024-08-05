@@ -1,4 +1,4 @@
- Your job is to make a context with the following important pieces of
+Your job is to make a context with the following important pieces of
 information along with their source sentences; "Name", "Founders", "Founded",
 "Headquarters", "Industry", "Products", "Services", "Revenue", "Timeline". You
 are not allowed to change any information that is already present.

@@ -1,4 +1,3 @@
-import os
 from IPython.display import display, Markdown
 from langchain_groq import ChatGroq
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -40,7 +39,7 @@ doc_split = splitter.create_documents([html_content])
 
 # Load the prompt
 summarize_chunk_prompt = load_prompt(
-    'src/json_prompt/prompts/summarize_chunk_prompt.txt'
+    'src/json_prompt/json_extractor/prompts/summarize_chunk_prompt.txt'
     )
 
 
@@ -53,7 +52,7 @@ print(f"First chunk: \n{chunk_sums[0]}")
 
 
 
-refine_prompt = load_prompt('src/json_prompt/prompts/refine_prompt.txt')
+refine_prompt = load_prompt('src/json_prompt/json_extractor/prompts/refine_prompt.txt')
 context = chunk_sums[0]
 for i, response in enumerate(chunk_sums):
     if i == 0:
@@ -63,7 +62,7 @@ for i, response in enumerate(chunk_sums):
 print(f"\nContext: \n{context}")
 
 extract_json_prompt = load_prompt(
-    'src/json_prompt/prompts/json_extract_prompt.txt'
+    'src/json_prompt/json_extractor/prompts/json_extract_prompt.txt'
     )
 
 extracted_json = extract_json(context, llm, extract_json_prompt)
