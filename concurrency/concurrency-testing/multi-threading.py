@@ -32,7 +32,7 @@ start_time = time.time()
 
 with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
     futures = [executor.submit(get_output, content) for content in contents]
-    timeout = 10
+    timeout = 5
 
     for i, future in enumerate(futures):
         try:
@@ -53,4 +53,8 @@ final_output = self_consistency(responses)
 if isinstance(final_output, Exception):
     logger.error(f"Error encountered: {final_output}")
 else:
+<<<<<<< HEAD
     logger.info(f"\nFinal Output:\n{final_output}")
+=======
+    logger.info(f"\nFinal Output:\n{final_output}")
+>>>>>>> d992ba2 (Feature: ADD CONSISTENCY)
