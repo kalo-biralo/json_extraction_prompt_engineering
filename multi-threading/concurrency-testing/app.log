@@ -1,0 +1,120 @@
+2024-08-05 17:56:42 - __main__ - INFO - Content fetched successfully
+2024-08-05 17:56:52 - __main__ - ERROR - Timeout occured for response number 0
+2024-08-05 17:57:02 - __main__ - ERROR - Timeout occured for response number 1
+2024-08-05 17:57:02 - __main__ - INFO - 
+Response Number 2: 
+Here is the extracted information in JSON format:
+
+```
+{
+  "Full Name": "Cristiano Ronaldo dos Santos Aveiro",
+  "Date of Birth": "5 February 1985",
+  "Place of Birth": "São Pedro parish of Funchal, Madeira, Portugal",
+  "Education": {
+    "Degrees obtained": "None",
+    "Institutions attended": "Escola EB2 de Telheiras",
+    "Years of attendance": "Until 6th grade"
+  },
+  "Career Highlights": {
+    "Significant positions held": [
+      "Forward for Sporting CP",
+      "Forward for Manchester United",
+      "Forward for Real Madrid",
+      "Forward for Juventus",
+      "Forward for Al Nassr",
+      "Captain of the Portugal national team"
+    ],
+    "Major accomplishments": [
+      "Won five Ballon d'Or awards",
+      "Won four European Golden Shoes",
+      "Won 33 trophies in his career",
+      "Holds records for most appearances, goals, and assists in the Champions League"
+    ],
+    "Notable projects or works": [
+      "Scored 500th career league goal",
+      "Became the first player to score at five European Championships",
+      "Became the first player to score at five World Cups"
+    ]
+  },
+  "Awards and Honors": [
+    "Ballon d'Or (2008, 2013, 2014, 2016, 2017)",
+    "UEFA Men's Player of the Year (2014, 2016, 2017)",
+    "European Golden Shoe (2008, 2011, 2014, 2015)",
+    "FIFA World Player of the Year (2008)"
+  ],
+  "Personal Life": {
+    "Family details": {
+      "Spouse": "None",
+      "Children": "None",
+      "Parents": "Maria Dolores dos Santos Viveiros da Aveiro and José Dinis Aveiro",
+      "Siblings": "Hugo, Elma, and Liliana Cátia 'Katia'"
+    },
+    "Hobbies and interests": "None mentioned"
+  },
+  "Contact Information": {
+    "Email": "None",
+    "Phone number": "None",
+    "Social media profiles": "None"
+  }
+}
+```
+
+Note that some information, such as contact information and hobbies, is not available in the provided text.
+2024-08-05 17:57:12 - __main__ - ERROR - Timeout occured for response number 3
+2024-08-05 17:57:12 - __main__ - INFO - 
+Response Number 4: 
+Here is the extracted information in JSON format:
+
+```
+{
+  "Full Name": "Cristiano Ronaldo dos Santos Aveiro",
+  "Date of Birth": "5 February 1985",
+  "Place of Birth": "São Pedro parish of Funchal, Madeira, Portugal",
+  "Education": {
+    "Degrees obtained": "",
+    "Institutions attended": "Escola EB2 de Telheiras",
+    "Years of attendance": ""
+  },
+  "Career Highlights": {
+    "Significant positions held": [
+      "Forward for Al Nassr",
+      "Captain of the Portugal national team",
+      "Forward for Manchester United",
+      "Forward for Real Madrid",
+      "Forward for Juventus"
+    ],
+    "Major accomplishments": [
+      "Won five Ballon d'Or awards",
+      "Won four European Golden Shoes",
+      "Won 33 trophies in his career",
+      "Holds the records for most appearances, goals, and assists in the Champions League"
+    ],
+    "Notable projects or works": [
+      "Won the UEFA European Championship with Portugal in 2016",
+      "Won the UEFA Nations League with Portugal in 2019",
+      "Won the FIFA Club World Cup with Real Madrid in 2014"
+    ]
+  },
+  "Awards and Honors": [
+    "Ballon d'Or (5 times)",
+    "European Golden Shoe (4 times)",
+    "UEFA Men's Player of the Year Award (3 times)",
+    "FIFA World Player of the Year (1 time)"
+  ],
+  "Personal Life": {
+    "Family details": {
+      "Spouse": "",
+      "Children": ""
+    },
+    "Hobbies and interests": ""
+  },
+  "Contact Information": {
+    "Email": "",
+    "Phone number": "",
+    "Social media profiles": ""
+  }
+}
+```
+
+Note that some fields are empty because the text does not provide the necessary information.
+2024-08-05 17:57:29 - __main__ - INFO - Total execution time: 47.60 seconds

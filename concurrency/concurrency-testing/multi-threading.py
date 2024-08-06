@@ -26,14 +26,23 @@ else:
     logger.info("Content fetched successfully")
 
 
+<<<<<<< HEAD:concurrency/concurrency-testing/multi-threading.py
 contents = [html_content[:20000]] * 10
+=======
+
+
+
+
+
+contents = [html_content[:20000]] * 5
+>>>>>>> 902232b (Merging conflict):multi-threading/concurrency-testing/concurrency-tests.py
 
 responses = []
 start_time = time.time()
 
 with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
     futures = [executor.submit(get_output, content) for content in contents]
-    timeout = 5
+    timeout = 10
 
     for i, future in enumerate(futures):
         try:
