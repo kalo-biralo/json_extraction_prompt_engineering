@@ -2,12 +2,15 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_groq import ChatGroq
 from json_prompt import load_prompts
+from dotenv import load_dotenv
 
-llm = ChatGroq(model = 'llama-3.1-70b-versatile', temperature = 0.5)
+load_dotenv()
+
+llm = ChatGroq(model = 'llama-3.1-70b-versatile', temperature = 0)
 
 
 extract_info_prompt = load_prompts(
-    'multi-threading/concurrency-testing/prompts/extract-info.txt'
+    'concurrency/concurrency-testing/prompts/extract-info.txt'
     )
 
 
@@ -26,7 +29,7 @@ def get_output(content):
     
 
 self_consistency_prompt = load_prompts(
-    'multi-threading/concurrency-testing/prompts/consistency.txt'
+    'concurrency/concurrency-testing/prompts/consistency.txt'
     )
 
 

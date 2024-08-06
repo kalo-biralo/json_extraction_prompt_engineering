@@ -1,0 +1,94 @@
+2024-08-06 11:55:27 - __main__ - INFO - Content fetched successfully
+2024-08-06 11:55:32 - __main__ - ERROR - Timeout occured for response number 0
+2024-08-06 11:55:34 - __main__ - INFO - 
+Response Number 1 saved
+2024-08-06 11:55:34 - __main__ - INFO - 
+Response Number 2 saved
+2024-08-06 11:55:34 - __main__ - INFO - 
+Response Number 3 saved
+2024-08-06 11:55:34 - __main__ - INFO - 
+Response Number 4 saved
+2024-08-06 11:55:38 - __main__ - INFO - 
+Response Number 5 saved
+2024-08-06 11:55:38 - __main__ - INFO - 
+Response Number 6 saved
+2024-08-06 11:55:39 - __main__ - INFO - 
+Response Number 7 saved
+2024-08-06 11:55:39 - __main__ - INFO - 
+Response Number 8 saved
+2024-08-06 11:55:39 - __main__ - INFO - 
+Response Number 9 saved
+2024-08-06 11:55:39 - __main__ - INFO - Total execution time: 11.59 seconds
+2024-08-06 11:55:45 - __main__ - INFO - 
+Final Output:
+Here is the most consistent information in JSON format:
+
+```json
+{
+  "Personal Details": {
+    "Full Name": "Cristiano Ronaldo dos Santos Aveiro",
+    "Nickname": "CR7",
+    "Date of Birth": "5 February 1985",
+    "Place of Birth": "São Pedro parish, Funchal, Madeira, Portugal",
+    "Height": "1.87 m (6 ft 1+1⁄2 in)",
+    "Nationality": "Portuguese",
+    "Ethnicity": "Portuguese, African (great-grandmother from Cape Verde)"
+  },
+  "Family": {
+    "Father": "José Dinis Aveiro (municipal gardener and part-time kit man)",
+    "Mother": "Maria Dolores dos Santos Viveiros da Aveiro (cook and cleaning woman)",
+    "Siblings": "Hugo (brother), Elma (sister), Liliana Cátia 'Katia' (sister)",
+    "Great-grandmother": "Isabel da Piedade (African woman from Cape Verde)"
+  },
+  "Early Life and Education": {
+    "Grew up in": "an impoverished Roman Catholic home",
+    "Shared a room with": "siblings",
+    "Expelled from school for": "throwing a chair at a teacher",
+    "Did not complete schooling beyond": "the 6th grade",
+    "Diagnosed with": "tachycardia at age 15, underwent heart surgery"
+  },
+  "Career": {
+    "Started playing football at age": "8",
+    "Joined Andorinha at age": "10",
+    "Moved to Nacional at age": "12",
+    "Joined Sporting CP's youth system at age": "12",
+    "Made professional debut with Sporting CP at age": "16",
+    "Signed with Manchester United at age": "18",
+    "Transferred to Real Madrid at age": "24",
+    "Transferred to Juventus at age": "33",
+    "Returned to Manchester United at age": "36",
+    "Signed with Al Nassr at age": "37"
+  },
+  "Awards and Accolades": {
+    "Ballon d'Or awards": "5",
+    "UEFA Men's Player of the Year Awards": "4",
+    "European Golden Shoes": "4",
+    "Trophies in his career": "33 (including 7 league titles, 5 UEFA Champions Leagues, and 1 UEFA European Championship)",
+    "Most appearances, goals, and assists in the Champions League": "",
+    "Most international goals and appearances for Portugal": "",
+    "First player to score at five European Championships": "",
+    "First player to score at five World Cups": "",
+    "Most capped male footballer of all time": ""
+  },
+  "Playing Style": {
+    "Versatile attacker, capable of playing on either wing or through the center": "",
+    "Strong with both feet": "",
+    "Known for his dribbling, flair, and ability to score from distance": "",
+    "Aerial threat, with a strong header and jumping ability": "",
+    "Developed into a prolific goalscorer, capable of finishing well both inside and outside the penalty area": "",
+    "Accurate penalty kick taker and set piece specialist": "",
+    "Uses the knuckleball technique for free kicks": ""
+  },
+  "Records and Milestones": {
+    "Most goals scored in the Champions League": "140",
+    "Most appearances in the Champions League": "183",
+    "Most international goals scored for Portugal": "130",
+    "Most international appearances for Portugal": "212",
+    "First player to score 500 career league goals": "",
+    "First player to score at five European Championships": "",
+    "First player to score at five World Cups": ""
+  }
+}
+```
+
+Note that some fields are empty because the information was not consistently present across all responses.

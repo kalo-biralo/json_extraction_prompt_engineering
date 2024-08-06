@@ -1,14 +1,13 @@
-from dotenv import load_dotenv
 from json_prompt import fetch_wikipedia_page_by_url
 import concurrent.futures
 import logging.config
 from prompting import get_output, self_consistency
 import time
+from save_to_txt import save_responses_to_file
 
-load_dotenv()
 
 # Load the logging configuration
-logging.config.fileConfig("multi-threading/concurrency-testing/logging.conf")
+logging.config.fileConfig("concurrency/concurrency-testing/logging-threads.conf")
 logger = logging.getLogger(__name__)
 
 
@@ -37,7 +36,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
     for i, future in enumerate(futures):
         try:
             response = future.result(timeout=timeout)
-            logger.info(f"\nResponse Number {i}: \n{response}")
+            logger.info(f"\nResponse Number {i} saved")
             responses.append(response)
         except concurrent.futures.TimeoutError:
             logger.error(f"Timeout occured for response number {i}")
@@ -45,6 +44,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
             logger.error(f"Error occured for response number {i}: {e}")
 
 end_time = time.time()
+save_responses_to_file(responses)
 
 execution_time = end_time - start_time
 logger.info(f"Total execution time: {execution_time:.2f} seconds")
@@ -53,8 +53,4 @@ final_output = self_consistency(responses)
 if isinstance(final_output, Exception):
     logger.error(f"Error encountered: {final_output}")
 else:
-<<<<<<< HEAD
     logger.info(f"\nFinal Output:\n{final_output}")
-=======
-    logger.info(f"\nFinal Output:\n{final_output}")
->>>>>>> d992ba2 (Feature: ADD CONSISTENCY)
