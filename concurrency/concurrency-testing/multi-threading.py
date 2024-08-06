@@ -8,9 +8,8 @@ import time
 load_dotenv()
 
 # Load the logging configuration
-logging.config.fileConfig('multi-threading/concurrency-testing/logging.conf')
+logging.config.fileConfig("multi-threading/concurrency-testing/logging.conf")
 logger = logging.getLogger(__name__)
-
 
 
 url = input("Please enter the URL of the Wikipedia page: ")
@@ -26,16 +25,7 @@ else:
     logger.info("Content fetched successfully")
 
 
-<<<<<<< HEAD:concurrency/concurrency-testing/multi-threading.py
 contents = [html_content[:20000]] * 10
-=======
-
-
-
-
-
-contents = [html_content[:20000]] * 5
->>>>>>> 902232b (Merging conflict):multi-threading/concurrency-testing/concurrency-tests.py
 
 responses = []
 start_time = time.time()
@@ -46,7 +36,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
 
     for i, future in enumerate(futures):
         try:
-            response = future.result(timeout = timeout)
+            response = future.result(timeout=timeout)
             logger.info(f"\nResponse Number {i}: \n{response}")
             responses.append(response)
         except concurrent.futures.TimeoutError:
