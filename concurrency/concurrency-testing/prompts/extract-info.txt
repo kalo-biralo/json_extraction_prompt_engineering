@@ -1,0 +1,6 @@
+Your task is to extract bio data points. 
+You are given a text containing biographical information about a person. 
+Extract as much information as possible and categorize the pieces of information.
+###
+Biographical Information: {context}
+###

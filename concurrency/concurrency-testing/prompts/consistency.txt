@@ -1,0 +1,8 @@
+You need to return the most consistent information in JSON format.
+You are given a list of several responses to the same question. 
+Your task is to determine which information from all the responses are the most consistent with the others. 
+Evaluate all of the information in the responses and determine the most consistent responses.
+Then display the most consistent response in JSON format.
+###
+Responses: {responses}
+###

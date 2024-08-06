@@ -1,9 +1,8 @@
-
 from dotenv import load_dotenv
 from json_prompt import fetch_wikipedia_page_by_url
 import concurrent.futures
 import logging.config
-from prompting import get_output
+from prompting import get_output, self_consistency
 import time
 
 load_dotenv()
@@ -27,14 +26,9 @@ else:
     logger.info("Content fetched successfully")
 
 
-
-
-
-
-
 contents = [html_content[:20000]] * 10
 
-
+responses = []
 start_time = time.time()
 
 with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
@@ -45,6 +39,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
         try:
             response = future.result(timeout = timeout)
             logger.info(f"\nResponse Number {i}: \n{response}")
+            responses.append(response)
         except concurrent.futures.TimeoutError:
             logger.error(f"Timeout occured for response number {i}")
         except Exception as e:
@@ -54,3 +49,9 @@ end_time = time.time()
 
 execution_time = end_time - start_time
 logger.info(f"Total execution time: {execution_time:.2f} seconds")
+
+final_output = self_consistency(responses)
+if isinstance(final_output, Exception):
+    logger.error(f"Error encountered: {final_output}")
+else:
+    logger.info(f"\nFinal Output:\n{final_output}")
